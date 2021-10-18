@@ -18,11 +18,12 @@ This repository contains instructions and files for two assignments that togethe
 
 ## Wireframes
 ### Home Page 
-![add your image here]()
+![ClassPage](ux-design/images/Home_Page.png)  
 ### Create new post 
-![add your image here]()
+![ClassPage](ux-design/images/New Post.png)  
 ### Class page 
-![add your image here]()
+![ClassPage](ux-design/images/Class Detail.png)  
+
 ### Detailed post page
 ![DetailedPost](ux-design/images/DetailedPost.png)   
 This page is for users to view the full content of a post. Users can see the author and channel of the post, and can join the channel by simply click the join button.     
