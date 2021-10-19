@@ -27,7 +27,7 @@ This page allows user to post new content to any channel and indicate whether th
 ![ClassDetail](ux-design/images/Class_Detail.png)  
 This page shows the class name , the instructor name and a link to join the class . The user is also provided a description of the class to decide whether they would like to join it or not.
 ### Detailed post page
-![DetailedPost](ux-design/images/DetailedPost.png)   
+![DetailedPost](ux-design/images/Post_Detail.png)   
 This page is for users to view the full content of a post. Users can see the author and channel of the post, and can join the channel by simply click the join button.     
 User can also see the comments under the post. Scrolling up the page will load more comments.       
 There's a footer beneath the sreen, user can leave comment by clicking the footer. 
