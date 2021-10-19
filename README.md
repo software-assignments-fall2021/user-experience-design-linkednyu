@@ -18,20 +18,22 @@ This repository contains instructions and files for two assignments that togethe
 
 ## Wireframes
 ### Home Page 
-![ClassPage](ux-design/images/Home_Page.png)  
+![HomePage](ux-design/images/Home_Page.png)  
+The Home page is the first page the users sees upon opening the apps. This page usually contains posts tailored to the user's need. The search bar also allows the user to search on the page.
 ### Create new post 
-![ClassPage](ux-design/images/New Post.png)  
+![NewPost](ux-design/images/New_Post.png)  
+This page allows user to post new content to any channel and indicate whether the post should be public/private. If a post is public , everyone gets access to the post whilst a specific people get access to it when is private. Therefore , its up to the user to select whether the post is private/public. This page also allows user to save a draft and post them later.
 ### Class page 
-![ClassPage](ux-design/images/Class Detail.png)  
-
+![ClassDetail](ux-design/images/Class_Detail.png)  
+This page shows the class name , the instructor name and a link to join the class . The user is also provided a description of the class to decide whether they would like to join it or not.
 ### Detailed post page
 ![DetailedPost](ux-design/images/DetailedPost.png)   
 This page is for users to view the full content of a post. Users can see the author and channel of the post, and can join the channel by simply click the join button.     
 User can also see the comments under the post. Scrolling up the page will load more comments.       
 There's a footer beneath the sreen, user can leave comment by clicking the footer. 
 ### Account page - Azanah
-![add your image here]()
-
+![AccountPage](ux-design/images/Class_Detail.png)
+This page shows info/details about the user account.
 ## Prototype
 https://linkednyu.invisionapp.com/console/share/CZ34ZDPB58
 
