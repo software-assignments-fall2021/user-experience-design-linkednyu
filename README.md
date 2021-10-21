@@ -41,7 +41,7 @@ This page shows info/details about the user account.
 ![Menu(User has not logged in)](ux-design/images/Menu_notlogin.png)   
 ![Menu(After user log in)](ux-design/images/Menu.png)
 ### signin
-![Sign in page](ux-design/images/Login.png =375x667)
+![Sign in page](ux-design/images/Login.png)
 ### password-reset
 ![Password reset](ux-design/images/Password_Reset.png)   
 ![Password reset](ux-design/images/Password_Reset_2.png)   
