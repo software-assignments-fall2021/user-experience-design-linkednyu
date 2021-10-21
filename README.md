@@ -24,7 +24,7 @@ This repository contains instructions and files for two assignments that togethe
 ![HomePage](ux-design/images/Home_Page.png)  
 The Home page is the first page the users sees upon opening the apps. This page usually contains posts tailored to the user's need. The search bar also allows the user to search on the page.
 ### Create new post 
-![NewPost](ux-design/images/New_Post.png)  
+![NewPost](ux-design/images/Create_Post.png)  
 This page allows user to post new content to any channel and indicate whether the post should be public/private. If a post is public , everyone gets access to the post whilst a specific people get access to it when is private. Therefore , its up to the user to select whether the post is private/public. This page also allows user to save a draft and post them later.
 ### Class page 
 ![ClassDetail](ux-design/images/Class_Detail.png)  
@@ -35,16 +35,16 @@ This page is for users to view the full content of a post. Users can see the aut
 User can also see the comments under the post. Scrolling up the page will load more comments.       
 There's a footer beneath the sreen, user can leave comment by clicking the footer. 
 ### Account page - Azanah
-![AccountPage](ux-design/images/UserDetail.png)
+![AccountPage](ux-design/images/User_Detail.png)
 This page shows info/details about the user account.
 ### Menu
-![Menu(User has not logged in)](ux-design/images/Menu-notlogin.png)   
+![Menu(User has not logged in)](ux-design/images/Menu_notlogin.png)   
 ![Menu(After user log in)](ux-design/images/Menu.png)
 ### signin
 ![Sign in page](ux-design/images/Login.png)
 ### password-reset
-![Password reset](ux-design/images/PasswordReset.png)   
-![Password reset](ux-design/images/PasswordReset2.png)   
+![Password reset](ux-design/images/Password_Reset.png)   
+![Password reset](ux-design/images/Password_Reset_2.png)   
 
 ## Prototype
 https://linkednyu.invisionapp.com/console/share/CZ34ZDPB58
