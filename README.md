@@ -35,7 +35,7 @@ This page is for users to view the full content of a post. Users can see the aut
 User can also see the comments under the post. Scrolling up the page will load more comments.       
 There's a footer beneath the sreen, user can leave comment by clicking the footer. 
 ### Account page - Azanah
-![AccountPage](ux-design/images/User_Detail.png)
+![AccountPage](ux-design/images/UserDetail.png)
 This page shows info/details about the user account.
 ### Menu
 ![Menu(User has not logged in)](ux-design/images/Menu-notlogin.png)   
