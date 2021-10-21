@@ -10,6 +10,9 @@ This repository contains instructions and files for two assignments that togethe
     - [Class page](#class-page)
     - [Detailed post page](#detailed-post-page)
     - [Account page - Azanah](#account-page---azanah)
+    - [Menu](#menu)
+    - [Sign In](#signin)
+    - [Password Reset](#password-reset)
   - [Prototype](#prototype)
   - [Working Doc](#working-doc)
 
@@ -34,6 +37,15 @@ There's a footer beneath the sreen, user can leave comment by clicking the foote
 ### Account page - Azanah
 ![AccountPage](ux-design/images/User_Detail.png)
 This page shows info/details about the user account.
+### Menu
+![Menu(User has not logged in)](ux-design/images/Menu-notlogin.png)   
+![Menu(After user log in)](ux-design/images/Menu.png)
+### signin
+![Sign in page](ux-design/images/Login.png)
+### password-reset
+![Password reset](ux-design/images/PasswordReset.png)   
+![Password reset](ux-design/images/PasswordReset 2.png)   
+
 ## Prototype
 https://linkednyu.invisionapp.com/console/share/CZ34ZDPB58
 
