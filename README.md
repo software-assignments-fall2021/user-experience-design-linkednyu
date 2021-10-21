@@ -36,6 +36,7 @@ User can also see the comments under the post. Scrolling up the page will load m
 There's a footer beneath the sreen, user can leave comment by clicking the footer. 
 ### Account page - Azanah
 ![AccountPage](ux-design/images/User_Detail.png)
+
 This page shows info/details about the user account.
 ### Menu
 ![Menu(User has not logged in)](ux-design/images/Menu_notlogin.png)   
