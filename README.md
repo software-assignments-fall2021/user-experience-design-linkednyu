@@ -44,7 +44,7 @@ This page shows info/details about the user account.
 ![Sign in page](ux-design/images/Login.png)
 ### password-reset
 ![Password reset](ux-design/images/PasswordReset.png)   
-![Password reset](ux-design/images/PasswordReset 2.png)   
+![Password reset](ux-design/images/PasswordReset2.png)   
 
 ## Prototype
 https://linkednyu.invisionapp.com/console/share/CZ34ZDPB58
