@@ -32,7 +32,7 @@ This page is for users to view the full content of a post. Users can see the aut
 User can also see the comments under the post. Scrolling up the page will load more comments.       
 There's a footer beneath the sreen, user can leave comment by clicking the footer. 
 ### Account page - Azanah
-![AccountPage](ux-design/images/Class_Detail.png)
+![AccountPage](ux-design/images/User_Detail.png)
 This page shows info/details about the user account.
 ## Prototype
 https://linkednyu.invisionapp.com/console/share/CZ34ZDPB58
